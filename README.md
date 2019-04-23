@@ -1,1 +1,1 @@
-Learning Flutter's animation library.
+Learning Flutter's animation library by animating a cat peeking out of the top of a box.
